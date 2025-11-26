@@ -76,4 +76,4 @@ https://github.com/takxz/FiveBars
 
 ## 👤 Auteur
 
-Projet réalisé par**Corentin Leys**, **Malo Hardouin**, **Thibault Cambien**.
+Projet réalisé par **Corentin Leys**, **Malo Hardouin**, **Thibault Cambien**.
