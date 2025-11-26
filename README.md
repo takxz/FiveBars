@@ -70,6 +70,9 @@ https://github.com/takxz/FiveBars
 
 ### ✔️ 3. Schémas d’architecture  :
 
+<img width="582" height="419" alt="Capture d’écran 2025-11-26 à 09 22 40" src="https://github.com/user-attachments/assets/2151f38b-6dd2-4d84-986a-49b3a33a81d6" />
+
+
 
 
 ---
