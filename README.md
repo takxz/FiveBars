@@ -72,7 +72,9 @@ https://github.com/takxz/FiveBars
 
 <img width="582" height="419" alt="Capture d’écran 2025-11-26 à 09 22 40" src="https://github.com/user-attachments/assets/2151f38b-6dd2-4d84-986a-49b3a33a81d6" />
 
+### ✔️ 4. Maquette de l'application (figma)  :
 
+https://www.figma.com/make/RzL9SFsJ9dAGAgSE47AAQ7/FiveBars-Mobile-App?node-id=0-4&t=HfBS3o5L7tE5B9QJ-1
 
 
 ---
