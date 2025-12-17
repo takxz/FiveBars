@@ -81,6 +81,7 @@ https://github.com/takxz/FiveBars
 ### ✔️ 3. BenchMark :
 <img width="737" height="452" alt="Capture d’écran 2025-12-17 à 10 27 22" src="https://github.com/user-attachments/assets/720563b9-ba46-4ca3-b854-c77b5d87043b" />
 
+### ✔️ 4. Schéma d'architecture :
 ![Diagramme](assets/Diagramme%20sans%20nom.drawio%20(1).png)
 
 ### ✔️ 5. Maquette de l'application (figma)  :
