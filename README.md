@@ -68,6 +68,13 @@ Les rendus fournis pour ce projet sont :
 ### ✔️ 1. Tableau Trello  :
 https://trello.com/invite/b/691d8643da96587b86f05b7f/ATTI23ced404f7e5180b4a19893a78dff786C44BE0B0/methodes-agiles
 
+Pour la partie MMF : 
+
+MMF1 : Recherche & Découverte / Gestion Établissement
+MMF2 : Administration
+MMF3 : Marketing et Promotion
+MMF4 : Fidélité
+
 ### ✔️ 2. Repository GitHub  :
 https://github.com/takxz/FiveBars
 
