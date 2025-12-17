@@ -7,6 +7,9 @@ Elle inclut également un espace **bars partenaires** ainsi qu’un **back-offic
 
 ---
 
+## Logo de l’application
+![Logo](https://github.com/user-attachments/assets/58ad2647-1663-440b-98ab-1e84d3ac8491)
+
 ## Objectif de l’application
 
 L’objectif principal de FiveBars est :
