@@ -68,11 +68,13 @@ https://trello.com/invite/b/691d8643da96587b86f05b7f/ATTI23ced404f7e5180b4a19893
 ### ✔️ 2. Repository GitHub  :
 https://github.com/takxz/FiveBars
 
-### ✔️ 3. Schémas d’architecture  :
+### ✔️ 3. BenchMark :
+<img width="737" height="452" alt="Capture d’écran 2025-12-17 à 10 27 22" src="https://github.com/user-attachments/assets/720563b9-ba46-4ca3-b854-c77b5d87043b" />
 
+### ✔️ 4. Schémas d’architecture  :
 ![Diagramme](assets/Diagramme%20sans%20nom.drawio.png)
 
-### ✔️ 4. Maquette de l'application (figma)  :
+### ✔️ 5. Maquette de l'application (figma)  :
 
 https://www.figma.com/make/RzL9SFsJ9dAGAgSE47AAQ7/FiveBars-Mobile-App?node-id=0-4&t=HfBS3o5L7tE5B9QJ-1
 
